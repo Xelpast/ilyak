@@ -1,0 +1,169 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		osnova
+	 *	@date 		Tuesday 23rd of May 2023 08:48:46 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/osnova" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_osnova_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__osnova_ek2"
+					android:background="@drawable/_bg__osnova_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="731dp" />
+
+				<ImageView android:id="@+id/background_intro_2"
+					android:src="@drawable/background_intro_2"
+					android:contentDescription="background_intro_2"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="-2dp"
+					android:layout_width="468dp"
+					android:layout_height="350dp" />
+
+				<ImageView android:id="@+id/top_background_2"
+					android:src="@drawable/top_background_2"
+					android:contentDescription="top_background_2"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="156dp"
+					android:layout_width="468dp"
+					android:layout_height="372dp" />
+
+				<ImageView android:id="@+id/white_line_2"
+					android:src="@drawable/white_line_2"
+					android:contentDescription="white_line_2"
+					 android:layout_marginStart="-6dp"
+					android:layout_marginTop="-156dp"
+					android:layout_width="425dp"
+					android:layout_height="725dp" />
+
+				<ImageView android:id="@+id/women_2"
+					android:src="@drawable/women_2"
+					android:contentDescription="women_2"
+					 android:layout_marginStart="78dp"
+					android:layout_marginTop="334dp"
+					android:layout_width="254dp"
+					android:layout_height="194dp" />
+
+				<TextView android:id="@+id/download_all_the_designs_resours_available_on_the_uilover_channel_for_free"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/_bg__osnova_ek2_color"
+					android:layout_marginLeft="52dp"
+					android:layout_marginTop="169dp"
+					android:layout_width="327dp"
+					android:layout_height="162dp"
+					android:text="@string/download_all_the_designs_resours_available_on_the_uilover_channel_for_free_string"
+					 />
+
+				<TextView android:id="@+id/welcom_back_to_your_app"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="36sp"
+					android:textColor="@color/_bg__osnova_ek2_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="54dp"
+					android:layout_width="351dp"
+					android:layout_height="144dp"
+					android:text="@string/welcom_back_to_your_app_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/reg"
+					android:layout_marginTop="653dp"
+					android:layout_marginStart="61dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<Button   android:id="@+id/rectangle_4"
+						android:background="@drawable/rectangle_4_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:text="Signup"
+						android:textSize="24sp"
+						android:textAllCaps="false"
+						android:layout_width="277dp"
+						android:layout_height="44dp" />
+
+					<TextView android:id="@+id/signup"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="0sp"
+						android:textColor="@color/signup_color"
+						android:layout_marginLeft="59dp"
+						android:layout_marginTop="8dp"
+						android:layout_width="168dp"
+						android:layout_height="56dp"
+						android:text="@string/signup_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/auth"
+					android:layout_marginTop="593dp"
+					android:layout_marginStart="61dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<Button   android:id="@+id/rectangle_3"
+						android:background="@drawable/rectangle_3_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="277dp"
+						android:text="Login"
+						android:textSize="24sp"
+						android:textAllCaps="false"
+						android:layout_height="44dp" />
+
+					<TextView android:id="@+id/login"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="0sp"
+						android:textColor="@color/signup_color"
+						android:layout_marginLeft="59dp"
+						android:layout_marginTop="12dp"
+						android:layout_width="168dp"
+						android:layout_height="56dp"
+						android:text="@string/login_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</ScrollView>

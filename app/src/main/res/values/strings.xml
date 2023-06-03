@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- osnova strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="download_all_the_designs_resours_available_on_the_uilover_channel_for_free_string">Download all the designs Resours 	available on the uilover channel for free</string>
+	<string name="welcom_back_to_your_app_string">Welcom back to your app</string>
+	<string name="signup_string">Signup</string>
+	<string name="login_string">Login</string>
+
+<string name="app_name2">Page 2</string>
+	<string name="create_account_string">Create account</string>
+	<string name="your_email_string">Your email</string>
+	<string name="enter_your_email_string">Enter your email</string>
+	<string name="your_password_string">Your Password</string>
+	<string name="enter_your_password_string">Enter your password</string>
+	<string name="repeat_password_string">Repeat Password</string>
+	<string name="enter_your_password_again_string">Enter your password again</string>
+	<string name="register_string">Next</string>
+	<string name="already_have_an_account___string">Already have an account ?</string>
+	<string name="login_string2">Login</string>
+
+<string name="app_name3">Page 3</string>
+	<string name="login_to__your_account_string">Login to your account</string>
+	<string name="your_email_string3">Your email</string>
+	<string name="enter_your_email_string3">Enter your email</string>
+	<string name="your_password_string3">Your Password</string>
+	<string name="forget_password___string">Forget password ?</string>
+	<string name="enter_your_password_string3">Enter your password</string>
+	<string name="register_string3">Register</string>
+	<string name="don_t_have_an_account___register__string">don`t have an account ? Register!</string>
+</resources>
